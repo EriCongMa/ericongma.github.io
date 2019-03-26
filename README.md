@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Hello World.
+Hello World. This is a brand new test.
 
 You can use the [editor on GitHub](https://github.com/EriCongMa/ericongma.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
