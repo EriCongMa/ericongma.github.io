@@ -2,122 +2,48 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# This is the blog of EriC. MA
 
-[Link to another page](./another-page.html).
+## EriC. MA    马聪(In Chinese)
 
-There should be whitespace between paragraphs.
+### Master Now.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[Natural Language Processing Group](http://www.nlpr.ia.ac.cn/cip/english/introduction.htm)
 
-# Header 1
+[National Laboratory of Pattern Recognition](http://www.nlpr.ia.ac.cn/nlpren/EN/volumn/home.shtml)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[Insititute of Automation Chinese Academy of Sciences](http://www.ia.cas.cn/)
 
-## Header 2
+[Email](mailto:cong.ma@nlpr.ia.ac.cn)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+---
 
-### Header 3
+### Education:
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+#### 2017.09 - Up to Now : Master, University of Chinese Academy of Sciences
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+#### 2013.09 - 2017.06: Bachelor, University of Science and Technology
 
-#### Header 4
+---
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### Research Interests:
 
-##### Header 5
+#### Natural Language Processing
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+#### Machine Translation
 
-###### Header 6
+#### Multimodal Information Processing
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+---
 
-### There's a horizontal rule below this.
+### Publications:
 
-* * *
+#### 2018:
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+1. Haoran Li, Junnan Zhu, Cong Ma, **Jiajun Zhang** and Chengqing Zong. **Read, Watch, Listen and Summarize: Multi-modal Summarization for Asynchronous Text, Image, Audio and Video**. *To Appear in IEEE Transactions on Knowledge and Data Engineering.* 
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+#### 2017:
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+1. Haoran Li, Junnan Zhu, Cong Ma, Jiajun Zhang and Chengqing Zong. [Multi-modal Summarization for Asynchronous Collection of Text, Image, Audio and Video](http://www.nlpr.ia.ac.cn/cip/ZongPublications/2017/LihaoranEmnlp.pdf). In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP-17), Copenhagen, Denmark. September 9-11, 2017, pp. 1103--1113.
