@@ -38,6 +38,12 @@ Multimodal Information Processing
 
 ---
 
+### Recent Contribution of Open Source Project:
+
+1. [AI Knowledge Tree - NLP Branch](https://github.com/SFFAI-AIKT/AIKT-Natural_Language_Processing), This open source project is used to collect and track the development of NLP. Anyone who wants to contribute this project, please [contact me](mailto:cong.ma@nlpr.ia.ac.cn). We believe that *Sharing Can Make Everyone Stronger*.
+
+---
+
 ### Publications:
 
 #### 2018:
