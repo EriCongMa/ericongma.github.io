@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: [EriC. MA]
 description: [Institute of Automation CAS]
 #logo: [https://github.com/EriCongMa/ericongma.github.io/tree/master/src/profile.jpg]
-logo: [profile.jpg]
+logo: [/src/profile.jpg]
