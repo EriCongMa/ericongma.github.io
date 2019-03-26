@@ -10,7 +10,7 @@ layout: default
 
 ### Master Now.
 
-[Natural Language Processing Group](http://www.nlpr.ia.ac.cn/cip/english/introduction.htm)
+[Natural Language Processing Group](http://www.nlpr.ia.ac.cn/cip/introduction.htm)
 
 [National Laboratory of Pattern Recognition](http://www.nlpr.ia.ac.cn/nlpren/EN/volumn/home.shtml)
 
