@@ -6,6 +6,8 @@ layout: default
 
 ## EriC. MA    马聪(In Chinese)
 
+---
+
 ### Master Now.
 
 [Natural Language Processing Group](http://www.nlpr.ia.ac.cn/cip/english/introduction.htm)
@@ -14,25 +16,25 @@ layout: default
 
 [Insititute of Automation Chinese Academy of Sciences](http://www.ia.cas.cn/)
 
-[Email](mailto:cong.ma@nlpr.ia.ac.cn)
+Email: [cong.ma@nlpr.ia.ac.cn](mailto:cong.ma@nlpr.ia.ac.cn)
 
 ---
 
 ### Education:
 
-#### 2017.09 - Up to Now : Master, University of Chinese Academy of Sciences
+2017.09 - Up to Now : Master, University of Chinese Academy of Sciences
 
-#### 2013.09 - 2017.06: Bachelor, University of Science and Technology
+2013.09 - 2017.06: Bachelor, University of Science and Technology
 
 ---
 
 ### Research Interests:
 
-#### Natural Language Processing
+Natural Language Processing
 
-#### Machine Translation
+Machine Translation
 
-#### Multimodal Information Processing
+Multimodal Information Processing
 
 ---
 
