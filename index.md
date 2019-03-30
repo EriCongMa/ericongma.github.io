@@ -69,7 +69,7 @@ Multimodal Information Processing
 
 ### Blog Articles
 
-1. Waiting to be updated.
+1. **<u>Cong MA</u>**, [**Methods to Contribute SFFAI AIKT**](https://github.com/EriCongMa/Publications-of-EriC.MA/blob/master/Blog_Articles/Methods_to_Contribute_SFFAI_AIKT.pdf). *Focusing on how to contribute to SFFAI AIKT open-resource project.* 30th, Mar., 2019.
 
 ---
 
