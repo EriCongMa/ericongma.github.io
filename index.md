@@ -77,7 +77,10 @@ Multimodal Information Processing
 
 - By email: [cong.ma@nlpr.ia.ac.cn](mailto:cong.ma@nlpr.ia.ac.cn)
 
-- By wechat: Scanning the QR code, and describe yourself in request info using the format as "<name>-<school/insitute>-<blog>" (e.g., "马聪-自动化所-blog").
+- By wechat: 
+
+  - Scanning the QR code
+  - Describe yourself in request info using the format as "<\name>-<school/insitute>-<\blog>" (e.g., "马聪-自动化所-blog").
 
   <img src="./index_src/MACongWechat.jpeg" style="zoom:40%"/>
 
