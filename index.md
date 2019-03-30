@@ -63,7 +63,7 @@ Multimodal Information Processing
 ### Invited Talks
 
 1. **<u>Cong Ma</u>**, [**Towards Intelligent Science & Technology**](https://github.com/EriCongMa/Publications-of-EriC.MA/blob/master/Invited_Talks/TowardsIntelligentScience&Technology.pdf). *Focusing on major selection guides for freshman in School of Automation and Electronic Engineering , University of Science and Technology of Science.* 13th, Mar., 2019.
-2. **<u>Cong Ma</u>**, [**ClassTutor-Assistant Tutorial**](https://github.com/EriCongMa/Publications-of-EriC.MA/blob/master/Invited_Talks/ClassTutor-Assistant-Tutorial-2017.pdf). *Focusing on guides of being a ClassTutor-Assistant in School of Automation and Electronic Engineering , University of Science and Technology of Science.* 12th, Jul., 2017.
+2. **<u>Cong Ma</u>**, [**ClassTutor-Assistant Tutorial**](https://github.com/EriCongMa/Publications-of-EriC.MA/blob/master/Invited_Talks/ClassTutor-Assistant-Tutorial-2017.pdf). *Focusing on guides of being a ClassTutor-Assistant in School of Automation and Electronic Engineering , University of Science and Technology Beijing.* 12th, Jul., 2017.
 
 ---
 
