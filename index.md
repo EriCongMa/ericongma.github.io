@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# This is the blog of EriC. MA
+# This is the Home Page of Cong MA
 
 ## Cong MA    马聪(In Chinese)
 
