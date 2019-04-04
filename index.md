@@ -48,9 +48,9 @@ Multimodal Information Processing
 
 [Link for all papers which are related to Cong MA](https://github.com/EriCongMa/Publications-of-EriC.MA)
 
-#### 2018
+#### 2019
 
-1. Haoran Li, Junnan Zhu, **<u>Cong Ma</u>**, Jiajun Zhang and Chengqing Zong.  [**Read, Watch, Listen and Summarize: Multi-modal Summarization for Asynchronous Text, Image, Audio and Video**](https://github.com/EriCongMa/Publications-of-EriC.MA/blob/master/Journal_Papers/2018-TKDE-CongMa.pdf). *To Appear in IEEE Transactions on Knowledge and Data Engineering.*
+1. H. Li, J. Zhu, **<u>C. Ma</u>**, J. Zhang and C. Zong, "[**Read, Watch, Listen, and Summarize: Multi-Modal Summarization for Asynchronous Text, Image, Audio and Video**](https://github.com/EriCongMa/Publications-of-EriC.MA/blob/master/Journal_Papers/2018-TKDE-CongMa.pdf)" in *IEEE Transactions on Knowledge and Data Engineering*, vol. 31, no. 5, pp. 996-1009, 1 May 2019. [This_Paper_in_IEEE_Xplore](https://ieeexplore.ieee.org/document/8387512?arnumber=8387512&source=authoralert).
 
 
 
