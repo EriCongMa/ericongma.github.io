@@ -70,7 +70,9 @@ Multimodal Information Processing
 
 ### Blog Articles
 
-1. **<u>Cong MA</u>**, [**Methods to Contribute SFFAI AIKT**](https://github.com/EriCongMa/Publications-of-EriC.MA/blob/master/Blog_Articles/Methods_to_Contribute_SFFAI_AIKT.pdf). *Focusing on how to contribute to SFFAI AIKT open-resource project.* 30th, Mar., 2019.
+1. **<u>Cong MA</u>**, [**Generative_Pre-training_In_NLP_Blog**](https://mp.weixin.qq.com/s/7sIUaSON53hsXUJjq8uVUA). *Focusing on the Summary of Invited Talk in SFFAI'24*. 9th, May, 2019. [pdf](https://github.com/EriCongMa/Publications-of-EriC.MA/blob/master/Blog_Articles/Generative_Pre-training_In_NLP_Blog.pdf)
+2. **<u>Cong MA</u>**, [**Methods to Contribute SFFAI AIKT**](https://github.com/EriCongMa/Publications-of-EriC.MA/blob/master/Blog_Articles/Methods_to_Contribute_SFFAI_AIKT.pdf). *Focusing on how to contribute to SFFAI AIKT open-resource project.* 30th, Mar., 2019.
+3. **<u>Cong MA</u>**, [**Interview_Of_CongMA_In_Master'1**](https://mp.weixin.qq.com/s/Awvu-A3SOn_mmTIgUMzlFA). *Focusing on experience of Cong MA in Master'1*. 23rd, Mar., 2018. [pdf](https://github.com/EriCongMa/Publications-of-EriC.MA/blob/master/Blog_Articles/Interview_Of_CongMA_In_Master'1.pdf)
 
 ---
 
