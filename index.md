@@ -22,7 +22,7 @@ Email: [cong.ma@nlpr.ia.ac.cn](mailto:cong.ma@nlpr.ia.ac.cn)
 
 ### Education:
 
-2017.09 - Up to Now : Master, University of Chinese Academy of Sciences
+2017.09 - Up to Now : Ph. D, University of Chinese Academy of Sciences
 
 2013.09 - 2017.06: Bachelor, University of Science and Technology Beijing
 
