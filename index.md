@@ -48,9 +48,19 @@ Multimodal Information Processing
 
 [Link for all papers which are related to Cong MA](https://github.com/EriCongMa/Publications-of-EriC.MA)
 
+#### 2020
+
+1. Qian Wang, Yuchen Liu, **<u>Cong Ma</u>**, Yu Lu, Yining Wang, Long Zhou, Yang Zhao, Jiajun Zhang, Chengqing Zong. [**CASIA’s System for IWSLT 2020 Open Domain Translation**](https://www.aclweb.org/anthology/2020.iwslt-1.15/). In Proceedings of the 17th International Conference on Spoken Language Translation(IWSLT), pages 130-139. July 9-10, 2020.
+
+
+
 #### 2019
 
-1. H. Li, J. Zhu, **<u>C. Ma</u>**, J. Zhang and C. Zong, "[**Read, Watch, Listen, and Summarize: Multi-Modal Summarization for Asynchronous Text, Image, Audio and Video**](https://github.com/EriCongMa/Publications-of-EriC.MA/blob/master/Journal_Papers/2018-TKDE-CongMa.pdf)" in *IEEE Transactions on Knowledge and Data Engineering*, vol. 31, no. 5, pp. 996-1009, 1 May 2019. [This_Paper_in_IEEE_Xplore](https://ieeexplore.ieee.org/document/8387512?arnumber=8387512&source=authoralert).
+1. Yang Zhao, Long Zhou, Qian Wang, **<u>Cong Ma</u>**, Yuchen Liu, Yining Wang, Lu Xiang, Jiajun Zhang, Yu Zhou, Chengqing Zong. **<u>Research on Low-Resource Ethnic-to-Chinese Neural Machine Translation</u>**. In CWMT, 2019. 
+
+   赵阳, 宗成庆, 周龙, 王迁, **<u>马聪</u>**, 刘宇宸, 王亦宁, 向露, 张家俊, 周玉, 宗成庆. [**民汉稀缺资源神经机器翻译技术研究**](http://d.wanfangdata.com.cn/periodical/jxsfdxxb201906012) [J]. 江西师范大学学报(自然科学版), 2019, 043(006):630-637.
+
+2. H. Li, J. Zhu, **<u>C. Ma</u>**, J. Zhang and C. Zong, "[**Read, Watch, Listen, and Summarize: Multi-Modal Summarization for Asynchronous Text, Image, Audio and Video**](https://github.com/EriCongMa/Publications-of-EriC.MA/blob/master/Journal_Papers/2018-TKDE-CongMa.pdf)" in *IEEE Transactions on Knowledge and Data Engineering*, vol. 31, no. 5, pp. 996-1009, 1 May 2019. [This_Paper_in_IEEE_Xplore](https://ieeexplore.ieee.org/document/8387512?arnumber=8387512&source=authoralert).
 
 
 
