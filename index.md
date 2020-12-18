@@ -71,7 +71,7 @@ Multimodal Information Processing
 
 #### 2019
 
-1. Yang Zhao, Long Zhou, Qian Wang, **<u>Cong Ma</u>**, Yuchen Liu, Yining Wang, Lu Xiang, Jiajun Zhang, Yu Zhou, Chengqing Zong. **<u>Research on Low-Resource Ethnic-to-Chinese Neural Machine Translation</u>**. In CWMT, 2019. 
+1. Yang Zhao, Long Zhou, Qian Wang, **<u>Cong Ma</u>**, Yuchen Liu, Yining Wang, Lu Xiang, Jiajun Zhang, Yu Zhou, Chengqing Zong. **<u>Research on Low-Resource Ethnic-to-Chinese Neural Machine Translation</u>**. In The 16th China Conference on Machine Translation, CCMT 2020.
 
    赵阳, 周龙, 王迁, **<u>马聪</u>**, 刘宇宸, 王亦宁, 向露, 张家俊, 周玉, 宗成庆. [**民汉稀缺资源神经机器翻译技术研究**](http://d.wanfangdata.com.cn/periodical/jxsfdxxb201906012) [J]. 江西师范大学学报(自然科学版), 2019, 043(006):630-637.
 
