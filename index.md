@@ -48,8 +48,7 @@ Multimodal Information Processing
 
 #### Conference Program Committee Member
 
-1. Committee Member of the 1st China Student Symposium on Natural Language Processing, CSSNLP 2020, 2020.12.26-202012.27, Beijing. 第一届中国自然语言处理学生研讨会(CSSNP) 组委会成员，2020年12月26日-12月27日，北京. [LINK](http://conference.cipsc.org.cn/cssnlp/#/)
-2. Forum Convener of Student Forum on Frontiers of Artificial Intelligence (SFFAI), 2018.09-2019.10, Beijing. 人工智能前沿学生论坛(SFFAI)论坛召集人，2018年9月-2019年10月，北京. [Forum BBS](https://bbs.sffai.com/), [Bilibili Video Collection](https://www.bilibili.com/read/cv1632709/)
+1. Forum Convener of Student Forum on Frontiers of Artificial Intelligence (SFFAI), 2018.09-2019.10, Beijing. 人工智能前沿学生论坛(SFFAI)论坛召集人，2018年9月-2019年10月，北京. [Forum BBS](https://bbs.sffai.com/), [Bilibili Video Collection](https://www.bilibili.com/read/cv1632709/)
 
 ---
 
