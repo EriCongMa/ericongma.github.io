@@ -8,7 +8,7 @@ layout: default
 
 ---
 
-### Master Now.
+### PhD Student
 
 [Natural Language Processing Group](http://www.nlpr.ia.ac.cn/cip/introduction.htm)
 
