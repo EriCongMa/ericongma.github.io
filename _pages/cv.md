@@ -9,13 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
+
 * 2017.09 - Up to Now : Ph. D, University of Chinese Academy of Sciences
 * 2013.09 - 2017.06: Bachelor, University of Science and Technology Beijing
 
 Research Interests:
 ======
+
 * Natural Language Processing
 * Machine Translation
 * Multimodal Information Processing
@@ -26,8 +30,14 @@ Intern Experience
 1. Software Engineer Intern in Boeing Research and Technology China. Responsible for machine translation related project management and technical assistance. 2019.09 - 2020.09, Beijing.
 
 
+
+---
+
+
+
 Academic Activities
 ======
+
 ## Conference Program Committee Member
 
 1. Committee Member of the 1st China Student Symposium on Natural Language Processing, CSSNLP 2020, 2020.12.26-202012.27, Beijing. 第一届中国自然语言处理学生研讨会(CSSNP) 组委会成员，负责前沿主题研讨论坛部分。2020年12月26日-12月27日，北京. [LINK](http://conference.cipsc.org.cn/cssnlp/#/)
@@ -37,5 +47,7 @@ Academic Activities
 
 ## Recent Contribution to Open Resource Project
 
-1. [EriCongMa/AI_Collections](https://github.com/EriCongMa/AI_Collections): This repository is constructed to collect interesting resource in Artificial Intelligence area. Due to the limitation of authors' time, there might be unseasonal update. We welcome anyone who wants to build this collections together and open it to everyone.
-2. [AI Knowledge Tree - NLP Branch](https://github.com/SFFAI-AIKT/AIKT-Natural_Language_Processing), This open source project is used to collect and track the development of NLP. Anyone who wants to contribute this project, please [contact me](mailto:cong.ma@nlpr.ia.ac.cn). We believe that *Sharing Can Make Everyone Stronger*.
+1. [awesome-of-transformer-ocr](https://github.com/EriCongMa/awesome-transformer-ocr): This repository is constructed to share current progress of transformer based optical character recognition(OCR). 
+2. [EriCongMa/AI_Collections](https://github.com/EriCongMa/AI_Collections): This repository is constructed to collect interesting resource in Artificial Intelligence area. Due to the limitation of authors' time, there might be unseasonal update. We welcome anyone who wants to build this collections together and open it to everyone.
+3. [AI Knowledge Tree - NLP Branch](https://github.com/SFFAI-AIKT/AIKT-Natural_Language_Processing), This open source project is used to collect and track the development of NLP. Anyone who wants to contribute this project, please [contact me](mailto:cong.ma@nlpr.ia.ac.cn). We believe that *Sharing Can Make Everyone Stronger*.
+
