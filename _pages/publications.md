@@ -35,7 +35,7 @@ author_profile: true
 
 1. Yang Zhao, Long Zhou, Qian Wang, **<u>Cong Ma</u>**, Yuchen Liu, Yining Wang, Lu Xiang, Jiajun Zhang, Yu Zhou, Chengqing Zong. **<u>Research on Low-Resource Ethnic-to-Chinese Neural Machine Translation</u>**. In The 15th China Conference on Machine Translation, CCMT 2019.
 
-2. ZHAO Yang, ZHOU Long, WANG Qian, **<u>MA Cong</u>**, LIU Yuchen, WANG Yining, XIANG Lu, ZHANG Jiajun, ZHOU Yu, ZONG Chengqing. The Study on Ethnic-to-Chinese Scare-Resource Neural Machine Translation. In the Journal of Jiangxi Normal University (Natural Science), vol. 43, no. 6, pp. 630-637.
+2. ZHAO Yang, ZHOU Long, WANG Qian, **<u>MA Cong</u>**, LIU Yuchen, WANG Yining, XIANG Lu, ZHANG Jiajun, ZHOU Yu, ZONG Chengqing. The Study on Ethnic-to-Chinese Scare-Resource Neural Machine Translation. In the Journal of Jiangxi Normal University (Natural Science), 2019, vol. 43, no. 6, pp. 630-637.
 
    赵阳, 周龙, 王迁, **<u>马聪</u>**, 刘宇宸, 王亦宁, 向露, 张家俊, 周玉, 宗成庆. [**民汉稀缺资源神经机器翻译技术研究**](http://d.wanfangdata.com.cn/periodical/jxsfdxxb201906012) [J]. 江西师范大学学报(自然科学版), 2019, 043(006):630-637.
 
