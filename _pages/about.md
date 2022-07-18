@@ -30,6 +30,8 @@ Research Interests:
 * Machine Translation
 * Multimodal Information Processing
 
+# [Publications](https://ericongma.github.io/publications/)
+
 Intern Experience
 ===
 
