@@ -19,6 +19,12 @@ author_profile: true
 
 [Link for all papers which are related to MA Cong](https://github.com/EriCongMa/Publications-of-EriC.MA)
 
+#### 2022
+
+1. **<u>Cong Ma</u>**, Yaping Zhang, Mei Tu, Xu Han, Linghui Wu, Yang Zhao, Yu Zhou. Improving End-to-End Text Image Translation From the Auxiliary Text Translation Task. In Proceedings of the 26th International Conference on Pattern Recognition (ICPR 2022), Virtually, Montréal Québec, Canada. August 21-25, 2022.
+
+
+
 #### 2020
 
 1. Qian Wang, Yuchen Liu, **<u>Cong Ma</u>**, Yu Lu, Yining Wang, Long Zhou, Yang Zhao, Jiajun Zhang, Chengqing Zong. [**CASIA’s System for IWSLT 2020 Open Domain Translation**](https://www.aclweb.org/anthology/2020.iwslt-1.15/). In Proceedings of the 17th International Conference on Spoken Language Translation(IWSLT), pages 130-139. July 9-10, 2020.
