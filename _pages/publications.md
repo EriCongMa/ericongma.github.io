@@ -21,7 +21,7 @@ author_profile: true
 
 #### 2022
 
-1. **<u>Cong Ma</u>**, Yaping Zhang, Mei Tu, Xu Han, Linghui Wu, Yang Zhao, Yu Zhou. Improving End-to-End Text Image Translation From the Auxiliary Text Translation Task. In Proceedings of the 26th International Conference on Pattern Recognition (ICPR 2022), Virtually, Montréal Québec, Canada. August 21-25, 2022.
+1. **<u>Cong Ma</u>**, Yaping Zhang, Mei Tu, Xu Han, Linghui Wu, Yang Zhao, Yu Zhou. Improving End-to-End Text Image Translation From the Auxiliary Text Translation Task. In Proceedings of the 26th International Conference on Pattern Recognition (ICPR 2022), Virtually, Montréal Québec, Canada. August 21-25, 2022. [arXiv_version](http://arxiv.org/abs/2210.03887)
 
 
 
