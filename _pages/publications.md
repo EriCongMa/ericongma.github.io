@@ -21,8 +21,8 @@ author_profile: true
 
 #### 2023
 
-1. **<u>Cong Ma</u>**, Yaping Zhang, Mei Tu, Yang Zhao, Yu Zhou, Chengqing Zong. E2TIMT: Efficient and Effective Modal Adapter for Text Image Machine Translation. In The 17th International Conference onDocument Analysis and Recognition (ICDAR 2023). [arXiv_version](https://arxiv.org/abs/2305.05166)
-2. **<u>Cong Ma</u>**, Yaping Zhang, Mei Tu, Yang Zhao, Yu Zhou, Chengqing Zong. Multi-Teacher Knowledge Distillation For Text Image Machine Translation. In The 17th International Conference onDocument Analysis and Recognition (ICDAR 2023). [arXiv_version](https://arxiv.org/abs/2305.05226)
+1. **<u>Cong Ma</u>**, Yaping Zhang, Mei Tu, Yang Zhao, Yu Zhou, Chengqing Zong. E2TIMT: Efficient and Effective Modal Adapter for Text Image Machine Translation. In The 17th International Conference on Document Analysis and Recognition (ICDAR 2023). [arXiv_version](https://arxiv.org/abs/2305.05166)
+2. **<u>Cong Ma</u>**, Yaping Zhang, Mei Tu, Yang Zhao, Yu Zhou, Chengqing Zong. Multi-Teacher Knowledge Distillation For Text Image Machine Translation. In The 17th International Conference on Document Analysis and Recognition (ICDAR 2023). [arXiv_version](https://arxiv.org/abs/2305.05226)
 
 
 
