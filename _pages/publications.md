@@ -19,6 +19,13 @@ author_profile: true
 
 [Link for all papers which are related to MA Cong](https://github.com/EriCongMa/Publications-of-EriC.MA)
 
+#### 2023
+
+1. **<u>Cong Ma</u>**, Yaping Zhang, Mei Tu, Yang Zhao, Yu Zhou, Chengqing Zong. E2TIMT: Efficient and Effective Modal Adapter for Text Image Machine Translation. In The 17th International Conference onDocument Analysis and Recognition (ICDAR 2023). [arXiv_version](https://arxiv.org/abs/2305.05166)
+2. **<u>Cong Ma</u>**, Yaping Zhang, Mei Tu, Yang Zhao, Yu Zhou, Chengqing Zong. Multi-Teacher Knowledge Distillation For Text Image Machine Translation. In The 17th International Conference onDocument Analysis and Recognition (ICDAR 2023). [arXiv_version](https://arxiv.org/abs/2305.05226)
+
+
+
 #### 2022
 
 1. **<u>Cong Ma</u>**, Yaping Zhang, Mei Tu, Xu Han, Linghui Wu, Yang Zhao, Yu Zhou. Improving End-to-End Text Image Translation From the Auxiliary Text Translation Task. In Proceedings of the 26th International Conference on Pattern Recognition (ICPR 2022), Virtually, Montréal Québec, Canada. August 21-25, 2022. pp.1664-1670. [arXiv_version](http://arxiv.org/abs/2210.03887), [ieeexplore_version](https://ieeexplore.ieee.org/document/9956695/), [GitHub](https://github.com/EriCongMa/E2E_TIT_With_MT).
