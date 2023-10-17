@@ -15,9 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-#### 
 
-# Publications
+
 
 1. **<u>Cong Ma</u>**, Xu Han, Linghui Wu, Yaping Zhang, Yang Zhao, Yu Zhou, and Chengqing Zong. **<u>Modal contrastive learning based end-to-end text image machine translation</u>**. IEEE/ACM Transactions on Audio, Speech, and Language Processing. [IEEEXplore Early Access](https://ieeexplore.ieee.org/document/10284997/).
 
