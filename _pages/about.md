@@ -32,6 +32,9 @@ Research Interests:
 
 # [Publications](https://ericongma.github.io/publications/)
 
+- 10 Papers have been published;
+- IEEE TKDE, IEEE/ACM TASLP, EMNLP, IWSLT, ICDAR, ICPR, CCMT etc.
+
 Intern Experience
 ===
 
