@@ -18,13 +18,13 @@ author_profile: true
 
 
 
-1. **<u>Cong Ma</u>**, Xu Han, Linghui Wu, Yaping Zhang, Yang Zhao, Yu Zhou, and Chengqing Zong. **<u>Modal contrastive learning based end-to-end text image machine translation</u>**. IEEE/ACM Transactions on Audio, Speech, and Language Processing. [IEEEXplore Early Access](https://ieeexplore.ieee.org/document/10284997/).
+1. **<u>Cong Ma</u>**, Xu Han, Linghui Wu, Yaping Zhang, Yang Zhao, Yu Zhou, and Chengqing Zong. **<u>Modal Contrastive Learning based End-to-End Text Image Machine Translation</u>**. IEEE/ACM Transactions on Audio, Speech, and Language Processing. [IEEEXplore Early Access](https://ieeexplore.ieee.org/document/10284997/).
 
-2. **<u>Cong Ma</u>**, Yaping Zhang, Mei Tu, Yang Zhao, Yu Zhou, Chengqing Zong. **<u>CCIM: Cross-modal Cross- lingual Interactive Image Translation</u>**. In the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023.
+2. **<u>Cong Ma</u>**, Yaping Zhang, Mei Tu, Yang Zhao, Yu Zhou, Chengqing Zong. **<u>CCIM: Cross-Modal Cross-Lingual Interactive Image Translation</u>**. In the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023.
 
-3. **<u>Cong Ma</u>**, Yaping Zhang, Mei Tu, Yang Zhao, Yu Zhou, and Chengqing Zong. **<u>E2timt: Efficient and effective modal adapter for text image machine translation</u>**. In The 17th *Document Analysis and Recognition - ICDAR 2023*, pages 70–88, Cham. Springer Nature Switzerland.  [arXiv_version](https://arxiv.org/abs/2305.05166), [Springer_Link](https://link.springer.com/chapter/10.1007/978-3-031-41731-3_5)
+3. **<u>Cong Ma</u>**, Yaping Zhang, Mei Tu, Yang Zhao, Yu Zhou, and Chengqing Zong. **<u>E2TIMT: Efficient and Effective Modal Adapter for Text Image Machine Translation</u>**. In The 17th *Document Analysis and Recognition - ICDAR 2023*, pages 70–88, Cham. Springer Nature Switzerland.  [arXiv_version](https://arxiv.org/abs/2305.05166), [Springer_Link](https://link.springer.com/chapter/10.1007/978-3-031-41731-3_5)
 
-4. **<u>Cong Ma</u>**, Yaping Zhang, Mei Tu, Yang Zhao, Yu Zhou, and Chengqing Zong. **<u>Multi-teacher knowl- edge distillation for end-to-end text image machine translation</u>**. In The 17th *Document Analysis and Recognition - ICDAR 2023*, pages 484–501, Cham. Springer Nature Switzerland. [arXiv_version](https://arxiv.org/abs/2305.05226), [Springer_Link](https://link.springer.com/chapter/10.1007/978-3-031-41676-7_28)
+4. **<u>Cong Ma</u>**, Yaping Zhang, Mei Tu, Yang Zhao, Yu Zhou, and Chengqing Zong. **<u>Multi-Teacher Knowledge Distillation for End-to-End Text Image Machine Translation</u>**. In The 17th *Document Analysis and Recognition - ICDAR 2023*, pages 484–501, Cham. Springer Nature Switzerland. [arXiv_version](https://arxiv.org/abs/2305.05226), [Springer_Link](https://link.springer.com/chapter/10.1007/978-3-031-41676-7_28)
 
 5. **<u>Cong Ma</u>**, Yaping Zhang, Mei Tu, Xu Han, Linghui Wu, Yang Zhao, Yu Zhou. **<u>Improving End-to-End Text Image Translation From the Auxiliary Text Translation Task</u>**. In Proceedings of the 26th International Conference on Pattern Recognition (ICPR 2022), Virtually, Montréal Québec, Canada. August 21-25, 2022. pp.1664-1670. [arXiv_version](http://arxiv.org/abs/2210.03887), [ieeexplore_version](https://ieeexplore.ieee.org/document/9956695/), [GitHub](https://github.com/EriCongMa/E2E_TIT_With_MT).
 
