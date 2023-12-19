@@ -22,7 +22,7 @@ author_profile: true
 
 2. **<u>Cong Ma</u>**, Xu Han, Linghui Wu, Yaping Zhang, Yang Zhao, Yu Zhou, and Chengqing Zong. **<u>Modal Contrastive Learning based End-to-End Text Image Machine Translation</u>**. IEEE/ACM Transactions on Audio, Speech, and Language Processing. [IEEEXplore Early Access](https://ieeexplore.ieee.org/document/10284997/).
 
-3. **<u>Cong Ma</u>**, Yaping Zhang, Mei Tu, Yang Zhao, Yu Zhou, Chengqing Zong. **<u>CCIM: Cross-Modal Cross-Lingual Interactive Image Translation</u>**. In the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023.
+3. **<u>Cong Ma</u>**, Yaping Zhang, Mei Tu, Yang Zhao, Yu Zhou, Chengqing Zong. **<u>CCIM: Cross-Modal Cross-Lingual Interactive Image Translation</u>**. In the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023. [ACL_Anthology_version.](https://aclanthology.org/2023.findings-emnlp.330/)
 
 4. **<u>Cong Ma</u>**, Yaping Zhang, Mei Tu, Yang Zhao, Yu Zhou, and Chengqing Zong. **<u>E2TIMT: Efficient and Effective Modal Adapter for Text Image Machine Translation</u>**. In The 17th *Document Analysis and Recognition - ICDAR 2023*, pages 70–88, Cham. Springer Nature Switzerland.  [arXiv_version](https://arxiv.org/abs/2305.05166), [Springer_Link](https://link.springer.com/chapter/10.1007/978-3-031-41731-3_5)
 
