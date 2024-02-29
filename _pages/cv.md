@@ -28,10 +28,11 @@ Research Interests:
 
 # [Publications](https://ericongma.github.io/publications/)
 
-- 11 Papers have been published.
-- IEEE TKDE, IEEE/ACM TASLP, EMNLP, ICASSP, IWSLT, ICDAR, ICPR, CCMT etc.
+- 12 Papers have been published.
+- IEEE TKDE, IEEE/ACM TASLP, EMNLP, Coling, ICASSP, IWSLT, ICDAR, ICPR, CCMT etc.
 - 2 Papers are under-review.
-- 2 Patents Granted.
+- 2 Patents are Granted.
+- 1 Pantent is under-review.
 
 Intern Experience
 ===
