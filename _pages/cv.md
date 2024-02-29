@@ -32,7 +32,7 @@ Research Interests:
 - IEEE TKDE, IEEE/ACM TASLP, EMNLP, Coling, ICASSP, IWSLT, ICDAR, ICPR, CCMT etc.
 - 2 Papers are under-review.
 - 2 Patents are Granted.
-- 1 Pantent is under-review.
+- 1 Patent is under-review.
 
 Intern Experience
 ===
