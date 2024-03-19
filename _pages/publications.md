@@ -22,7 +22,7 @@ author_profile: true
 
 2. **<u>Cong Ma</u>**, Yaping Zhang, Zhiyang Zhang, Yupu Liang, Yang Zhao, Yu Zhou, Chengqing Zong. **<u>Born a BabNet with Hierarchical Parental Supervision for End-to-End Text Image Machine Translation</u>**. In The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). Torino, Italia. May 20-25, 2024.
 
-3. **<u>Cong Ma</u>**, Yaping Zhang, Yang Zhao, Yu Zhou, Chengqing Zong. **<u>Vector Quantization Knowledge Transfer for End-to-End Text Image Machine Translation</u>**. In The 49th IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP 2024). COEX, Seoul, Korea. April 14-19, 2024. 
+3. **<u>Cong Ma</u>**, Yaping Zhang, Yang Zhao, Yu Zhou, Chengqing Zong. **<u>Vector Quantization Knowledge Transfer for End-to-End Text Image Machine Translation</u>**. In The 49th IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP 2024). COEX, Seoul, Korea. April 14-19, 2024.  [IEEE Xplore Version](https://ieeexplore.ieee.org/document/10447334).
 
 4. **<u>Cong Ma</u>**, Xu Han, Linghui Wu, Yaping Zhang, Yang Zhao, Yu Zhou, and Chengqing Zong. **<u>Modal Contrastive Learning based End-to-End Text Image Machine Translation</u>**. IEEE/ACM Transactions on Audio, Speech, and Language Processing. [IEEEXplore Early Access](https://ieeexplore.ieee.org/document/10284997/).
 
