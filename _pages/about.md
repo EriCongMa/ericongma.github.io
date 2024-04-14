@@ -27,8 +27,11 @@ Research Interests:
 ======
 
 * Natural Language Processing
+* Large Language Model
+* Reinforcement Learning with Human Feedback
+* Parameter Efficient Tuning
 * Machine Translation
-* Multimodal Information Processing
+* Multimodal Representation Learning
 
 # [Publications](https://ericongma.github.io/publications/)
 
