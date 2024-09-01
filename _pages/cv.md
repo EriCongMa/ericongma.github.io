@@ -27,7 +27,7 @@ Education
 
 * 2017.09 - 2024.06 : Ph. D, University of Chinese Academy of Sciences
   * [Natural Language Processing Group](http://www.nlpr.ia.ac.cn/cip/introduction.htm)
-  * [National Laboratory of Pattern Recognition](http://www.nlpr.ia.ac.cn/nlpren/EN/volumn/home.shtml)
+  * [National Laboratory of Pattern Recognition](http://ia.cas.cn/jgsz/kyxt/dmtrgzn/) (Now, re-named as MAIS: State Key Laboratory of Multimodal Artificial Intelligence Systems)
   * [Insititute of Automation Chinese Academy of Sciences](http://www.ia.cas.cn/)
 * 2013.09 - 2017.06: Bachelor, University of Science and Technology Beijing
 
