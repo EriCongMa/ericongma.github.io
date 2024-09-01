@@ -9,18 +9,25 @@ redirect_from:
 ---
 
 
-I am a PhD student in Institute of Automation, Chinese Academy of Sciences.
+I am now a Large Language Model Researcher in Byte Dance (Beijing).
 
-[Natural Language Processing Group](http://www.nlpr.ia.ac.cn/cip/introduction.htm)
 
-[National Laboratory of Pattern Recognition](http://www.nlpr.ia.ac.cn/nlpren/EN/volumn/home.shtml)
 
-[Insititute of Automation Chinese Academy of Sciences](http://www.ia.cas.cn/)
+# Career
+
+- 2024.06 - Now: Byte Dance (Beijing)
+  - Referral Code (内推码): 6HUMSGQ
+  - [DOUBAO TEAM](https://team.doubao.com/zh/)
+  - [Byte Dance](https://www.bytedance.com)
 
 Education
 ======
 
-* 2017.09 - Up to Now : Ph. D, University of Chinese Academy of Sciences
+* 2017.09 - 2024.06 : Ph. D, University of Chinese Academy of Sciences
+  * [Natural Language Processing Group](http://www.nlpr.ia.ac.cn/cip/introduction.htm)
+  * [National Laboratory of Pattern Recognition](http://www.nlpr.ia.ac.cn/nlpren/EN/volumn/home.shtml)
+  * [Insititute of Automation Chinese Academy of Sciences](http://www.ia.cas.cn/)
+
 * 2013.09 - 2017.06: Bachelor, University of Science and Technology Beijing
 
 Research Interests:
