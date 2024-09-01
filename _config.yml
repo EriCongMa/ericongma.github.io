@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "MA Cong's Homepage"
 title_separator          : "-"
 name                     : &name "MA Cong"
-description              : &description "I'm a PhD. Student in Institute of Automation, Chinese Academy of Sciences."
+description              : &description "I am now a Large Language Model Researcher in Byte Dance (Beijing)."
 url                      : https://ericongma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ericongma.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "MA Cong"
   avatar           : "MACong_profile1.jpg"
-  bio              : "I'm a PhD. Student in Institute of Automation, Chinese Academy of Sciences."
+  bio              : "I am now a Large Language Model Researcher in Byte Dance (Beijing)."
   location         : "Beijing, China."
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : https://scholar.google.com/citations?user=CEXr1H0AAAAJ&hl=zh-CN
   email            :
   researchgate     : 
   uri              :

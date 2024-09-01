@@ -18,7 +18,7 @@ I am now a Large Language Model Researcher in Byte Dance (Beijing).
 # Career
 
 - 2024.06 - Now: Byte Dance (Beijing)
-  - [Join Us](https://jobs.bytedance.com) | Referral Code (内推码): 6HUMSGQ
+  - [Join Us](https://jobs.bytedance.com), Referral Code (内推码): 6HUMSGQ
   - [DOUBAO TEAM](https://team.doubao.com/zh/)
   - [Byte Dance](https://www.bytedance.com)
 
