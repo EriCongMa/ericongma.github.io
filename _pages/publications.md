@@ -22,7 +22,7 @@ author_profile: true
 
 2. Liucheng Pang, Yaping Zhang, **<u>Cong Ma</u>**, Yang Zhao, Yu Zhou, Chengqing Zong. **<u>🚀 TableRocket: An Efficient and Effective Framework for Table Reconstruction</u>**.  In Pattern Recognition and Computer Vision. PRCV 2024. Lecture Notes in Computer Science, vol 15037, pp 348-362. Springer, Singapore. [Springer_Link](https://doi.org/10.1007/978-981-97-8511-7_25).
 
-3. Yupu Liang, Yaping Zhang, **<u>Cong Ma</u>**, Zhiyang Zhang, Yang Zhao, Lu Xiang, Chengqing Zong, Yu Zhou. **<u>Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling</u>**. In The 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024). Mexico City, Mexico. June 16-21, 2024.
+3. Yupu Liang, Yaping Zhang, **<u>Cong Ma</u>**, Zhiyang Zhang, Yang Zhao, Lu Xiang, Chengqing Zong, Yu Zhou. **<u>Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling</u>**. In The 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024). Mexico City, Mexico. June 16-21, 2024. [ACL Anthology](https://aclanthology.org/2024.naacl-long.392/).
 
 4. **<u>Cong Ma</u>**, Yaping Zhang, Zhiyang Zhang, Yupu Liang, Yang Zhao, Yu Zhou, and Chengqing Zong. **<u>Born a BabyNet with Hierarchical Parental Supervision for End-to-End Text Image Machine Translation</u>**. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 2468–2479, Torino, Italy. ELRA and ICCL. [Acl_anthology](https://aclanthology.org/2024.lrec-main.222/).
 
