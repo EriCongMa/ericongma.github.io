@@ -10,7 +10,8 @@ author_profile: true
 * Natural Language Processing
 * Large Language Model
 * Reinforcement Learning with Human Feedback
+* Long-Context Modeling for LLMs
+* Multimodal Representation Learning
 * Parameter Efficient Tuning
 * Machine Translation
-* Multimodal Representation Learning
 
