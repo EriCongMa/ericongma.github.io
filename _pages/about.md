@@ -43,11 +43,9 @@ Research Interests:
 
 # [Publications](https://ericongma.github.io/publications/)
 
-- 15 Papers have been published.
+- 18 Papers have been published.
   - including IEEE TPAMI, IEEE TKDE, IEEE/ACM TASLP, EMNLP, Coling, NAACL, ICASSP, IWSLT, ICDAR, ICPR, PRCV, CCMT etc.
-- 1 Paper(s) is/are under-review.
 - 2 Patents are Granted.
-- 1 Patent(s) is/are under-review.
 
 
 
