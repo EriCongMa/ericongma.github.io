@@ -11,16 +11,16 @@ redirect_from:
 
 
 
-I am now a Large Language Model Researcher in Byte Dance (Beijing).
+I am now a Large Language Model Researcher.
 
 
 
 # Career
 
-- 2024.06 - Now: Byte Dance (Beijing)
-  - [Join Us](https://jobs.bytedance.com), Referral Code (内推码): 6HUMSGQ
-  - BandAI
-  - [Byte Dance](https://www.bytedance.com)
+- 2024.06 - 2026.01: [Byte Dance](https://www.bytedance.com) (Beijing)
+  - Commercial AI / Horizon
+  - Seed / Application Post-Training
+  - Seed / General Post-Training
 
 Education
 ======
@@ -29,6 +29,7 @@ Education
   * [Natural Language Processing Group](http://www.nlpr.ia.ac.cn/cip/introduction.htm)
   * [National Laboratory of Pattern Recognition](http://ia.cas.cn/jgsz/kyxt/dmtrgzn/) (Now, re-named as MAIS: State Key Laboratory of Multimodal Artificial Intelligence Systems)
   * [Insititute of Automation Chinese Academy of Sciences](http://www.ia.cas.cn/)
+
 * 2013.09 - 2017.06: Bachelor, University of Science and Technology Beijing
 
 Research Interests:
@@ -44,8 +45,8 @@ Research Interests:
 
 # [Publications](https://ericongma.github.io/publications/)
 
-- 18 Papers have been published.
-  - including IEEE TPAMI, IEEE TKDE, IEEE/ACM TASLP, EMNLP, Coling, NAACL, ICASSP, IWSLT, ICDAR, ICPR, PRCV, CCMT etc.
+- 20 Papers have been published/pre-printed.
+  - including IEEE TPAMI, IEEE TKDE, IEEE/ACM TASLP, ICML, EMNLP, Coling, NAACL, ICASSP, IWSLT, ICDAR, ICPR, PRCV, CCMT etc.
 - 2 Patents are Granted.
 
 
@@ -57,7 +58,7 @@ Research Interests:
 Academic Activities
 ======
 
-1. Reviewers for IEEE TPAMI, IEEE TMM, IEEE TKDE, IEEE/ACM TASLP, AAAI, EMNLP, Coling, ICASSP, ICDAR, ICPR, IJCNN and so on.
+1. Reviewers for IEEE TPAMI, IEEE TMM, IEEE TKDE, IEEE/ACM TASLP, ICLR, ICML, NeurIPS, AAAI, EMNLP, Coling, ICASSP, ICDAR, ICPR, IJCNN and so on.
 
 2. Committee Member of the 1st China Student Symposium on Natural Language Processing, CSSNLP 2020, 2020.12.26-202012.27, Beijing. 第一届中国自然语言处理学生研讨会(CSSNP) 组委会成员，负责前沿主题研讨论坛部分。2020年12月26日-12月27日，北京. [LINK](http://conference.cipsc.org.cn/cssnlp/#/)
 
@@ -76,4 +77,10 @@ Academic Activities
 Intern Experience
 ===
 
-1. Software Engineer Intern in Boeing Research and Technology China. Responsible for machine translation related project management and technical assistance. 2019.09 - 2020.09, Beijing.
+1. Large Language Model Researcher Intern in ByteDance Seed. Responsible for General Post-Training. 2024.03 - 2024.06, Beijing.
+    - Research Directions: Reward Modeling, Sandbox Feedback for Coding RL, Code Critiques, and etc.
+
+2. Large Language Model Researcher Intern in Huawei Cloud. Responsible for Multilingual Large Languge Model Research. 2022.09 - 2024.02, Beijing.
+
+3. Software Engineer Intern in Boeing Research and Technology China. Responsible for machine translation related project management and technical assistance. 2019.09 - 2020.09, Beijing.
+
