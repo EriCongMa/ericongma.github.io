@@ -16,9 +16,9 @@ I am now a Large Language Model Researcher.
 # Career
 
 - 2024.06 - 2026.01: [Byte Dance](https://www.bytedance.com) (Beijing)
-  - Commercial AI | Horizon
-  - Seed | Application Post-Training
-  - Seed | General Post-Training
+  - Commercial AI / Horizon
+  - Seed / Application Post-Training
+  - Seed / General Post-Training
 
 Education
 ======
@@ -43,7 +43,7 @@ Research Interests:
 
 # [Publications](https://ericongma.github.io/publications/)
 
-- 20 Papers have been published.
+- 20 Papers have been published/pre-printed.
   - including IEEE TPAMI, IEEE TKDE, IEEE/ACM TASLP, ICML, EMNLP, Coling, NAACL, ICASSP, IWSLT, ICDAR, ICPR, PRCV, CCMT etc.
 - 2 Patents are Granted.
 
@@ -75,7 +75,7 @@ Academic Activities
 Intern Experience
 ===
 
-1. Large Language Model Researcher Intern in ByteDance Seed. Responsible for General Post-Training. 2022.09 - 2024.02, Beijing.
+1. Large Language Model Researcher Intern in ByteDance Seed. Responsible for General Post-Training. 2024.03 - 2024.06, Beijing.
     - Research Directions: Reward Modeling, Sandbox Feedback for Coding RL, Code Critiques, and etc.
 
 2. Large Language Model Researcher Intern in Huawei Cloud. Responsible for Multilingual Large Languge Model Research. 2022.09 - 2024.02, Beijing.
